@@ -1,33 +1,29 @@
 ---
-title: 'Gala: A Python package for galactic dynamics'
+title: 'Beiwe: A data collection platform for high-throughput digital phenotyping'
 tags:
-  - Python
-  - astronomy
-  - dynamics
-  - galactic dynamics
-  - milky way
+  - high-throughput
+  - digital phenotyping
+  - multi-language
+  - smartphone
+  - AWS
 authors:
-  - name: Adrian M. Price-Whelan^[Custom footnotes for e.g. denoting who the corresponding author is can be included like this.]
-    orcid: 0000-0003-0872-7098
-    affiliation: "1, 2" # (Multiple affiliations must be quoted)
-  - name: Author Without ORCID
+  - name: Jukka-Pekka Onnela^[Principal Investigator and corresponding author.]
+    orcid: 0000-0001-6613-8668
+    affiliation: 1
+  - name: Zagaran Author 1
     affiliation: 2
-  - name: Author with no affiliation
-    affiliation: 3
+  - name: Zagaran Author 2
+    affiliation: 2
+  - name: Zagaran Author 3
+    affiliation: 2
 affiliations:
- - name: Lyman Spitzer, Jr. Fellow, Princeton University
+ - name: Department of Biostatistics, Harvard T.H. Chan School of Public Health, Harvard University
    index: 1
- - name: Institution Name
+ - name: Zagaran, Inc.
    index: 2
- - name: Independent Researcher
-   index: 3
-date: 13 August 2017
+date: 12 February 2021
 bibliography: paper.bib
 
-# Optional fields if submitting to a AAS journal too, see this blog post:
-# https://blog.joss.theoj.org/2018/12/a-new-collaboration-with-aas-publishing
-aas-doi: 10.3847/xxxxx <- update this with the DOI from AAS once you know it.
-aas-journal: Astrophysical Journal <- The name of the AAS journal.
 ---
 
 # Summary
