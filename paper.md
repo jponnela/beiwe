@@ -38,6 +38,6 @@ Beiwe is intended for use in research. Essentially all software development kits
 
 # Acknowledgements
 
-The Principal Investigator, Dr. Jukka-Pekka Onnela, is extremely grateful for his NIH Director’s New Innovator Award in 2013 (DP2MH103909) for enabling the crystallization of the concept of digital phenotyping and the construction of the Beiwe platform. He is grateful to his past and present mentees, mentors, and collaborators, and to the Zagaran team for their expert software engineering.
+The Principal Investigator, Dr. Jukka-Pekka Onnela, is extremely grateful for his NIH Director’s New Innovator Award in 2013 (DP2MH103909) for enabling the crystallization of the concept of digital phenotyping and the construction of the Beiwe platform. He is also grateful to his past and present mentees, mentors, collaborators, and staff; and to the Zagaran team for their expert software engineering.
 
 # References
