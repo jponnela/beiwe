@@ -1,2 +1,0 @@
-# beiwe
-Beiwe JOSS paper
