@@ -10,18 +10,26 @@ authors:
   - name: Jukka-Pekka Onnela^[Principal Investigator and corresponding author.]
     orcid: 0000-0001-6613-8668
     affiliation: 1
-  - name: Zagaran Author 1
+  - name: Caleb Dixon
     affiliation: 2
-  - name: Zagaran Author 2
+  - name: Keary Griffin
+    affiliation: 3
+  - name: Tucker Jaenicke
     affiliation: 2
-  - name: Zagaran Author 3
+  - name: Alvin Siu
+    affiliation: 2
+  - name: Josh Zagorsky
+    affiliation: 2
+  - name: Eli Jones
     affiliation: 2
 affiliations:
  - name: Department of Biostatistics, Harvard T.H. Chan School of Public Health, Harvard University
    index: 1
  - name: Zagaran, Inc.
    index: 2
-date: 12 February 2021
+ - name: Rocket Farm Studios
+   index: 3
+date: 15 February 2021
 bibliography: paper.bib
 
 ---
@@ -38,6 +46,6 @@ Beiwe is intended for use in research. Essentially all software development kits
 
 # Acknowledgements
 
-The Principal Investigator, Dr. Jukka-Pekka Onnela, is extremely grateful for his NIH Director’s New Innovator Award in 2013 (DP2MH103909) for enabling the crystallization of the concept of digital phenotyping and the construction of the Beiwe platform. He is also grateful to his past and present mentees, mentors, collaborators, and staff; and to the Zagaran team for their expert software engineering.
+The Principal Investigator, Dr. Jukka-Pekka Onnela, is extremely grateful for his NIH Director’s New Innovator Award in 2013 (DP2MH103909) for enabling the crystallization of the concept of digital phenotyping and the construction of the Beiwe platform. He is also grateful to the members of the Onnela Lab. The authors also wish to acknowledge the contributions of the following individuals at Zagaran: Aaron Klein, Kevin Fan, Christopher McCarthy, Dor Samet, Alicia Fan, Rebecca Magazine Malamud, Jacob Klingensmith, and Benjamin Zagorsky.
 
 # References
