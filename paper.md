@@ -44,26 +44,7 @@ Beiwe is a data collection platform for high-throughput digital phenotyping. Thi
 
 Beiwe is intended for use in research. Essentially all software development kits (SDKs) made by companies like Apple and Google generate unvalidated behavioral summary measures using closed proprietary algorithms that do not meet the high standards of reproducible science. In contrast, Beiwe collects raw sensor and device usage data, which enables construction of built-for-purpose data features or summary statistics that directly address the scientific questions of interest. Collection of raw data also improves reproducibility of studies and enables re-analyses of data and pooling of data across studies. Every aspect of Beiwe data collection is fully customizable, including which sensors to sample, how frequently to sample them, whether to add Gaussian noise to GPS location, whether to use Wi-Fi or cellular data for uploads, how frequently to upload data, specification of surveys and their response options and skip logic, etc. All study settings are captured in a JSON-formatted configuration file to enhance transparency and reproducibility of studies.
 
-Beiwe has been and continues to be used in a number of scientific studies on three continents in various areas. Smartphone-based digital phenotyping is potentially very promising in behavioral and mental health [@onnela2016harnessing], and new reserch tools like Beiwe are especially needed in psychiatry [@torous2016new], where in the context of schizophrenia it has been used to predict patient relapse [@barnett2018relapse], compare passive and active estimates of sleep [@staples2017comparison], and characterize the clinical relevance of digital phenotyping data quality [@torous2018characterizing]. The platform has also been used to assess depressive symptoms in a transdiagnostic cohort [@pelligrini2021estimating] and to capture suicidal thinking during the COVID-19 pandemic [@fortgang2020increase].
-
-
-
-Design and results of a smartphone-based digital phenotyping study to quantify ALS progression [@berry2019design]
-behavioral changes in people with ALS during the COVID-19 pandemic [@beukenhorst2021smartphone]
-
-
-Preoperative Decision Conflict and Postoperative Physical Activity Among Patients Undergoing Cancer Surgery [@panda2021smartphone]
-Smartphone global positioning system (GPS) data enhances recovery assessment after breast cancer surgery [@panda2020smartphone]
-Using smartphones to capture novel recovery metrics after cancer surgery [@panda2020using]
-The HOPE pilot study: harnessing patient-reported outcomes and biometric data to enhance cancer care [@wright2018hope]
-
-Digital phenotyping in patients with spine disease: a novel approach to quantifying mobility and quality of life [@cote2019digital]
-Psychosocial Well-Being Trajectories After Spinal Cord Injury [@mercier2020digital]
-
-
-
-
-
+Beiwe has been and continues to be used in a number of scientific studies on three continents in various areas. Smartphone-based digital phenotyping is potentially very promising in behavioral and mental health [@onnela2016harnessing], and new reserch tools like Beiwe are especially needed in psychiatry [@torous2016new], where in the context of schizophrenia it has been used to predict patient relapse [@barnett2018relapse], compare passive and active estimates of sleep [@staples2017comparison], and characterize the clinical relevance of digital phenotyping data quality [@torous2018characterizing]. The platform has also been used to assess depressive symptoms in a transdiagnostic cohort [@pelligrini2021estimating] and to capture suicidal thinking during the COVID-19 pandemic [@fortgang2020increase]. There is an increasing use of research on the use of Beiwe in neurological disorders, such as in the quantification of ALS progression [@berry2019design] and behavioral changes in people with ALS during the COVID-19 pandemic [@beukenhorst2021smartphone]. The platform has also been used in the context of cancer to assess postoperative physical activity among patients undergoing cancer surgery [@panda2021smartphone], to capture novel recovery metrics after cancer surgery [@panda2020using], to enhance recovery assessment after breast cancer surgery [@panda2020smartphone], and to enhance cancer care [@wright2018hope]. Digital phenotyping and Beiwe have also been applied to quantifying mobility and quality of life of spine patients [@cote2019digital] and to study psychosocial well-being of individuals afer spinal cord injury [@mercier2020digital].
 
 # Acknowledgements
 
